@@ -1,3 +1,6 @@
+我自己搭建了一个网页版可用的，大家试试
+https://zzy.edu.pl
+
 <p align="center">
   <img src="assets/banner.png" alt="Hermes Agent" width="100%">
 </p>
